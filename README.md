@@ -14,7 +14,7 @@
 
 ## Live Demo (if available)
 
-[**See Project 🚀**]()
+[**See Project 🚀**](https://davezag.github.io/Awesome_books_ES6/)
 
 ## Screenshot
 
