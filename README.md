@@ -2,7 +2,7 @@
 
 # Awesome Books
 
-> This project is a simple personnal library that allows the user to store all his favorite books or the ones to be read in his browser's local storage. Therefore we use the javscript method localStorage to store the user's data. At this stage it supports insertion and deletion but in the future more features might be added.
+> This project is a simple personal library that allows the user to store all his favorite books or the ones to be read in his browser's local storage. Therefore we use the javascript method localStorage to store the user's data. At this stage it supports insertion and deletion but in the future more features might be added.
 
 ## Built With
 
