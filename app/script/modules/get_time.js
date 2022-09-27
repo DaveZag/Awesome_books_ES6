@@ -3,5 +3,6 @@ import { DateTime } from './luxon.js';
 import { headTime } from './components.js';
 
 export default function topTime() {
-  headTime.innerText = DateTime.now().toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS);
+  const dateNow = DateTime.now();
+  headTime.innerText = dateNow.toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS);
 }
