@@ -9,7 +9,7 @@
 - HTML
 - CSS
 - Javascript
-- node.js (npm)
+- node.js(npm)
 - luxon
 
 ## Live Demo (if available)
